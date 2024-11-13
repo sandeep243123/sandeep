@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sandeep Kumar. and I'm a Full Stack developer, from NIT KKR.</p>
+<p align="left">My name is <b>Sandeep Kumar</b>. and I'm a <b>Full Stack</b> developer, from <b>NIT KKR</b>.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👉🏼 Postgraduate in Master of Computer Applications from NIT KURUKSHETRA.<br>👉🏼 Passionate web developer skilled in responsive frontend and powerful backend solutions.<br>👉🏼 Skilled problem solver with a strategic approach to tackling complex challenges efficiently.</p>
+<p align="left">👉🏼 Postgraduate in <b>Master of Computer Applications</b> from <b>NIT KURUKSHETRA</b>.<br>👉🏼 Passionate web developer skilled in responsive frontend and powerful backend solutions.<br>👉🏼 Skilled problem solver with a strategic approach to tackling complex challenges efficiently.</p>
 
 ###
 
